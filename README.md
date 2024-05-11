@@ -10,6 +10,7 @@ requires ox-lib and ox-inventory but you can use it with whatever framework you 
 
 Hope you enjoy.
 
+preview: https://youtu.be/iwF5n-BQVz8
 
 *Disclaimer*
 
