@@ -1,0 +1,19 @@
+Items to insert in ox_inventory, you can change the properties but for the item to work you need to leave the client export as is
+
+["burgerstand"] = {
+        label = "BurgerStand",
+        weight = 10,
+        stack = false,
+        close = true,
+        consume = 1,
+        client = {
+            export = "nkt-bgstand.useCart",
+        }
+    },
+    ["bglicense"] = {
+        label = "BurgerStand License",
+        weight = 10,
+        stack = false,
+        close = true,
+    }
+
